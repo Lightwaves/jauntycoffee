@@ -1,6 +1,6 @@
 Create TABLE employee (
 
-    employee_id integer primary key auto_increment,
+    employee_id serial primary key,
     first_name varchar(30),
     last_name varchar(30),
     hire_date date,
