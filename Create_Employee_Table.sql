@@ -5,7 +5,8 @@ Create TABLE employee (
     last_name varchar(30),
     hire_date date,
     job_title varchar(30),
-    shop_id integer references coffee_shop(shop_id)
+    shop_id serial,
+    foreign key (shop_id) references Coffee_Shop(shop_id)
 
 
 
