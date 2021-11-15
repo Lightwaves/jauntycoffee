@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mU7jnWwCKNLjHhyMLD5yo8b4Bt4pAbijpkoztVbTQ58lgJnOKc6tt6s6ZoAfo8GjSN1GFWACYs5CHVpC7giKBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dread\\OneDrive\\Desktop\\Essays\\C170 - Data Management\\Jaunty Coffee Co. Project\\JauntyCoffee.ConsoleApp\\JauntyCoffee.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dread\\.nuget\\packages\\bogus\\33.1.1\\bogus.33.1.1.nupkg.sha512",
+    "C:\\Users\\dread\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\dread\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\dread\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
