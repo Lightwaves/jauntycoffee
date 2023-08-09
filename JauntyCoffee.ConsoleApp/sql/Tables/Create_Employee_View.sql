@@ -1,0 +1,1 @@
+Create View Employee_Full_Name as (Select *, CONCAT(first_name, ' ', last_name) as employee_full_name from Employee)

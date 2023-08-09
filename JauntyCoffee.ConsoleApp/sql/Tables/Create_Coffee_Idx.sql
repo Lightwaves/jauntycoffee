@@ -1,0 +1,1 @@
+Create Index idx_coffee_name on Coffee(coffee_name)

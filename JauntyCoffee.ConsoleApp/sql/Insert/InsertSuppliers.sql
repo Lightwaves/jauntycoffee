@@ -1,0 +1,6 @@
+insert into Supplier (company_name, country, sales_contract_name, email) Values ('Vandervort - McClure Group', 'Mayotte', 'copy Contract', 'Fredrick83@yahoo.com'),
+('Jaskolski - Bashirian and Sons', 'Central African Republic', 'program Contract', 'Armando.Pfannerstill@hotmail.com'),('Murray, Bruen and Murazik Inc', 'Latvia', 'bypass Contract', 'Marvin_Tillman@yahoo.com'),
+('Brakus, Nikolaus and Fay Inc', 'Bangladesh', 'quantify Contract', 'Dante19@yahoo.com'),('Kutch, Gorczany and Herman LLC', 'Antigua and Barbuda', 'program Contract', 'Jerald_Brekke66@gmail.com'),
+('Schaefer - Zemlak Inc', 'Ethiopia', 'back up Contract', 'Cody.Murazik@hotmail.com'),('Runolfsson, Schultz and Kunze Inc', 'Uganda', 'index Contract', 'Kailyn25@gmail.com'),
+('Weimann LLC Inc', 'Australia', 'copy Contract', 'Hershel_Bins@hotmail.com'),('Hintz Inc LLC', 'Bulgaria', 'input Contract', 'John_Dibbert63@yahoo.com'),
+('Stracke, Larson and Rippin and Sons', 'Belarus', 'back up Contract', 'Markus.Grant43@hotmail.com')

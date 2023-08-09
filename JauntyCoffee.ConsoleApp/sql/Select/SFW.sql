@@ -1,0 +1,1 @@
+select shop_name from Coffee_Shop where state = 'MA'
